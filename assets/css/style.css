@@ -658,7 +658,7 @@ color: white;
 -----------------------------*/
 
 #intro {
-    padding-bottom: 0px;
+    padding-bottom: 60px;
 }
 
 .intro-img {
@@ -786,6 +786,8 @@ color: white;
 #service-head .section-title{
     color: #fff;
 }
+
+
 .text-white p {
     color: #fff;
 }
@@ -798,6 +800,10 @@ color: white;
     -webkit-background-size: cover;
     background-size: cover;
     padding-top: 87px;
+}
+
+#service .section-title{
+    color: #fff;
 }
 
 #service .dark-overlay {
